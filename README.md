@@ -29,3 +29,16 @@ $ npm run dev
 ```
 
 O projeto será apresentado através do link [http://localhost:3000](http://localhost:3000).
+
+## 🎯 Requisitos do Desafio
+
+Este projeto consiste em uma aplicação ReactJS que atende aos seguintes requisitos:
+
+- Implementação de testes unitários.
+- Funcionalidade de login.
+- Funcionalidade de cadastro de usuário (Sign up).
+- Listagem de produtos.
+- Edição de produtos.
+- Precisamos que a aplicação seja responsiva.
+
+*Obs:* A API utilizada para simular as chamadas de backend será uma API mockada.
