@@ -47,7 +47,7 @@ const LoginForm = () => {
                     <a href="#" className="hover:underline">Esqueceu a senha?</a>
                 </div>
             </div>
-            <button type="submit" disabled={loading} className="bg-primary-100 hover:bg-primary text-white font-semibold rounded-md py-2 px-4 w-full">
+            <button type="submit" disabled={loading} className="bg-primary-100 hover:bg-primary text-white font-semibold rounded-md py-3 px-4 w-full">
                 {loading ? 'Acessando...' : 'Login'}
             </button>
         </form>

@@ -13,7 +13,7 @@ const FormInput = <TFormValues extends Record<string, unknown>>({
             type={type}
             placeholder={placeholder}
             {...register(name, { required })}
-            className="w-full border border-gray-300 rounded-md py-2 px-3 focus:outline-none focus:border-primary"
+            className="w-full text-gray-700 border border-gray-300 rounded-md py-2 px-3 focus:outline-none focus:border-primary"
         />
     )
 }

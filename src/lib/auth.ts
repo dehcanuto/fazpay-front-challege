@@ -39,11 +39,12 @@ export const authOptions: NextAuthOptions = {
         return { ...token, ...user };
       },
       async session({ session, token, user }) {
+        const { result } = token;
         // Envia as propriedades para a session.
-        session.token = token.access_token
-        session.user.name = token.user.name
-        session.user.email = token.user.email
-        session.user.image = token.user.image
+        session.token = result.access_token
+        session.user.name = result.user.name
+        session.user.email = result.user.email
+        session.user.image = result.user.image
         return session
       },
       async redirect({ url, baseUrl }) {

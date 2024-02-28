@@ -13,6 +13,8 @@ const config: Config = {
           DEFAULT: '#7513f3',
           100: '#7161c2'
         },
+        success: '#50d06e',
+        error: '#fa5c7c',
       },
     },
   },
