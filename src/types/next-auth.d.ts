@@ -16,12 +16,15 @@ declare module "next-auth" {
 
 declare module 'next-auth/jwt' {
   interface JWT extends DefaultJWT {
-    access_token: string
-    user: {
-      id: number
-      name: string
-      email: string
-      image: string
+    message: string
+    statusCode: number
+    result: {
+      access_token: string
+      user: {
+        name: string
+        email: string
+        image: string
+      },
     },
     iat: number
     exp: number

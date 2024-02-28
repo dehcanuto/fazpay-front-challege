@@ -14,6 +14,8 @@
 * [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/) para organizar os componentes
 * [NexjAuth.js](https://next-auth.js.org/) - Processo de login do usuário
 * [React Hook Form](https://react-hook-form.com/) Manipular os formulários
+* [Axios](https://axios-http.com/) Enviar dados para api
+* [React Icons](https://react-icons.github.io/react-icons/) Icones para o UI
 
 ## 🚀 Instalação
 
@@ -42,10 +44,10 @@ O projeto será apresentado através do link [http://localhost:3000](http://loca
 Este projeto consiste em uma aplicação ReactJS que atende aos seguintes requisitos:
 
 - Implementação de testes unitários.
-- Funcionalidade de login.
-- Funcionalidade de cadastro de usuário (Sign up).
-- Listagem de produtos.
-- Edição de produtos.
-- Precisamos que a aplicação seja responsiva.
+- ✅ Funcionalidade de login.
+- ✅ Funcionalidade de cadastro de usuário (Sign up).
+- ✅ Listagem de produtos.
+- ✅ Edição de produtos.
+- ✅ Precisamos que a aplicação seja responsiva.
 
 *Obs:* A API utilizada para simular as chamadas de backend será uma API mockada.
