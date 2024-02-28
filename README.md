@@ -39,6 +39,11 @@ $ yarn dev
 
 O projeto será apresentado através do link [http://localhost:3000](http://localhost:3000).
 
+## 🔑 Acessos de teste
+
+*username:* johndoe
+*password:* 123456
+
 ## 🎯 Requisitos do Desafio
 
 Este projeto consiste em uma aplicação ReactJS que atende aos seguintes requisitos:
@@ -51,3 +56,7 @@ Este projeto consiste em uma aplicação ReactJS que atende aos seguintes requis
 - ✅ Precisamos que a aplicação seja responsiva.
 
 *Obs:* A API utilizada para simular as chamadas de backend será uma API mockada.
+
+## 💬 Considerações do candidato
+
+Estre projeto vai muito do que uso no dia-a-dia. Fazer o processo de autenticação e tratamento de cruds vindo do back-end são bastante comuns nos projetos que participo. Optei pelo NextJS por conta da própria manutenção do código e todo o suporte da comunidade ReactJS, além de ter escalabilidade com o Vercel. Tailwind CSS, atualmente, é um dos frameworks CSS mais utilizados do mercado e possui grande personalização e a síntaxe lembra bastante o saudoso bootstrap. Por se tratar de dados mockados, não pude inserir qualquer dado novo em algum banco de dados, mas fiz todo o processo para que se tornasse possível uma integração. Mantive as cores e identidade na marca do pouco que tive acesso e tentei deixar o mais próximo possível com otimizações de SEO. Não inserir sistema de notificações nem cadastro, mas deixei o link para uma futura feature no projeto. Também optei por não fazer o sistema de busca, pois talvez não fosse necessário para o teste, mas também deixei o design dele pronto para caso precise integrar. Agredeço demais a oportunidade e fico muito honrado em participar dessa etapa da FazPay. Cordialmente, André Canuto.
