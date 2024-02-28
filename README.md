@@ -44,7 +44,7 @@ O projeto será apresentado através do link [http://localhost:3000](http://loca
 | Campo        | Acesso   |
 | ------------ | -------- |
 | **Usuário**  | johndoe  |
-| **password** | 123456   |
+| **Senha**    | 123456   |
 
 ## 🎯 Requisitos do Desafio
 
