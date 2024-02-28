@@ -41,8 +41,10 @@ O projeto será apresentado através do link [http://localhost:3000](http://loca
 
 ## 🔑 Acessos de teste
 
-*username:* johndoe
-*password:* 123456
+| Campo    | Acesso   |
+| -------- | -------- |
+| username | johndoe  |
+| password | 123456   |
 
 ## 🎯 Requisitos do Desafio
 
